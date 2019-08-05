@@ -1,0 +1,13 @@
+.amos{
+    width: 200px;
+    height: 100px;
+    background: #aaa;
+    position: fixed;
+    opacity: 0.8;
+    top: 0;/*置中*/
+    bottom:0;/*置中*/
+    margin: auto;/*置中*/
+    left: 0;/*置中*/
+    right: 0;/*置中*/
+    /* margin-bottom: 2em; */
+}
